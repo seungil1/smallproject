@@ -1,1 +1,1 @@
-# smallproject
+*small project*
